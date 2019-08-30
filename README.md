@@ -6,7 +6,9 @@ Learn how to pass and consume arguments from the command line.
 Learn how to access a sql database from our Python applications.
 Learn how to use the SQLite3 plugin for VScode.
 Learn how to use Fire to C.R.U.D. our resources.
-##Features 🎯🥇🏆
+
+
+## Features 🎯🥇🏆
 [x ] The user can run your program from the command line.
 [x ] The user can see all todos from the command line by passing a list command, sorted with the ones due first.
 [ x] The user can add a todo from the command line by passing an add argument. The fields specified should be body, due_date, and project_id. The fields due_date and project_id are optional. Only body is required.
@@ -17,7 +19,7 @@ Learn how to use Fire to C.R.U.D. our resources.
 [ x] If the user does not supply the correct arguments, or supplies a --help flag, the user sees a usage message.
 [ x] The user can supply arguments to the list command to only see todos that are complete.
 
-##Optional Requirements
+## Optional Requirements
 [ x] The user can supply arguments to the list command to only see todos of a particular project_id.
 [ x] The user can supply arguments to the list command to reverse the default sort, to now see the todos by due_date descending.
 [ x] The user can supply arguments to the list command to combine the above options.
